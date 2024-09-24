@@ -1,4 +1,4 @@
-import "/Unknown/Website/client-app/src/css/GridContent.css";
+import "/src/css/GridContent.css";
 import { Button, Grid, GridColumn, GridRow } from "semantic-ui-react";
 import "semantic-ui-css/semantic.min.css";
 
