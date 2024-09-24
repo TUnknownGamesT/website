@@ -1,0 +1,17 @@
+D:\Unknown\website\API\bin\Publish\API.exe
+D:\Unknown\website\API\bin\Publish\appsettings.Development.json
+D:\Unknown\website\API\bin\Publish\appsettings.json
+D:\Unknown\website\API\bin\Publish\API.dll
+D:\Unknown\website\API\bin\Publish\API.deps.json
+D:\Unknown\website\API\bin\Publish\API.runtimeconfig.json
+D:\Unknown\website\API\bin\Publish\API.pdb
+D:\Unknown\website\API\bin\Publish\Microsoft.OpenApi.dll
+D:\Unknown\website\API\bin\Publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Unknown\website\API\bin\Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Unknown\website\API\bin\Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Unknown\website\API\bin\Publish\Application.dll
+D:\Unknown\website\API\bin\Publish\Domain.dll
+D:\Unknown\website\API\bin\Publish\Persistence.dll
+D:\Unknown\website\API\bin\Publish\Application.pdb
+D:\Unknown\website\API\bin\Publish\Domain.pdb
+D:\Unknown\website\API\bin\Publish\Persistence.pdb
