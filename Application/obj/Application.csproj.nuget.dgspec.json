@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unknown\\Website\\Application\\Application.csproj": {}
+    "D:\\Unknown\\website\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\Unknown\\Website\\Application\\Application.csproj": {
+    "D:\\Unknown\\website\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unknown\\Website\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Unknown\\website\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Unknown\\Website\\Application\\Application.csproj",
+        "projectPath": "D:\\Unknown\\website\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\leggacysa\\.nuget\\packages\\",
-        "outputPath": "D:\\Unknown\\Website\\Application\\obj\\",
+        "outputPath": "D:\\Unknown\\website\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leggacysa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Unknown\\Website\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Unknown\\Website\\Domain\\Domain.csproj"
+              "D:\\Unknown\\website\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Unknown\\website\\Domain\\Domain.csproj"
               },
-              "D:\\Unknown\\Website\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Unknown\\Website\\Persistence\\Persistence.csproj"
+              "D:\\Unknown\\website\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Unknown\\website\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Unknown\\Website\\Domain\\Domain.csproj": {
+    "D:\\Unknown\\website\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unknown\\Website\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Unknown\\website\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Unknown\\Website\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Unknown\\website\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\leggacysa\\.nuget\\packages\\",
-        "outputPath": "D:\\Unknown\\Website\\Domain\\obj\\",
+        "outputPath": "D:\\Unknown\\website\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leggacysa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -127,14 +127,14 @@
         }
       }
     },
-    "D:\\Unknown\\Website\\Persistence\\Persistence.csproj": {
+    "D:\\Unknown\\website\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unknown\\Website\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Unknown\\website\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Unknown\\Website\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\Unknown\\website\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\leggacysa\\.nuget\\packages\\",
-        "outputPath": "D:\\Unknown\\Website\\Persistence\\obj\\",
+        "outputPath": "D:\\Unknown\\website\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leggacysa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -149,8 +149,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Unknown\\Website\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Unknown\\Website\\Domain\\Domain.csproj"
+              "D:\\Unknown\\website\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Unknown\\website\\Domain\\Domain.csproj"
               }
             }
           }

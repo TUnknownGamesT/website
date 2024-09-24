@@ -486,11 +486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unknown\\Website\\API\\API.csproj",
+      "projectUniqueName": "D:\\Unknown\\website\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Unknown\\Website\\API\\API.csproj",
+      "projectPath": "D:\\Unknown\\website\\API\\API.csproj",
       "packagesPath": "C:\\Users\\leggacysa\\.nuget\\packages\\",
-      "outputPath": "D:\\Unknown\\Website\\API\\obj\\",
+      "outputPath": "D:\\Unknown\\website\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leggacysa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -505,8 +505,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Unknown\\Website\\Application\\Application.csproj": {
-              "projectPath": "D:\\Unknown\\Website\\Application\\Application.csproj"
+            "D:\\Unknown\\website\\Application\\Application.csproj": {
+              "projectPath": "D:\\Unknown\\website\\Application\\Application.csproj"
             }
           }
         }

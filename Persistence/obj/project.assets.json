@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unknown\\Website\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "D:\\Unknown\\website\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "D:\\Unknown\\Website\\Persistence\\Persistence.csproj",
+      "projectPath": "D:\\Unknown\\website\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\leggacysa\\.nuget\\packages\\",
-      "outputPath": "D:\\Unknown\\Website\\Persistence\\obj\\",
+      "outputPath": "D:\\Unknown\\website\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leggacysa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Unknown\\Website\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Unknown\\Website\\Domain\\Domain.csproj"
+            "D:\\Unknown\\website\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Unknown\\website\\Domain\\Domain.csproj"
             }
           }
         }

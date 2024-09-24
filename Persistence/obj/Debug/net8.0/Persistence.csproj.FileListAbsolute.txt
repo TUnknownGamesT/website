@@ -1,0 +1,16 @@
+D:\Unknown\Website\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Unknown\website\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Unknown\website\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Unknown\website\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Unknown\website\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Unknown\website\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Unknown\website\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unknown\website\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Unknown\website\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Unknown\website\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Unknown\website\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+D:\Unknown\Website\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Unknown\website\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Unknown\website\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Unknown\website\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Unknown\Website\Persistence\obj\Debug\net8.0\ref\Persistence.dll
