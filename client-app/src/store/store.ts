@@ -10,7 +10,7 @@ export const store: Store = {
     {
       id: "1",
       title: "TopDown",
-      urlTrailar: "./videos/Codrin Bradea Game Teaser.mp4",
+      urlTrailar: "./videos/CodrinBradeaGameTeaser.mp4",
       urlPlay: "https://unknowngames-public.itch.io/hotline-oradea-betia",
       tags: ["Shooter", "Low Poly", "Lvl Base", "Windows", "Indie"],
       relased: true,
