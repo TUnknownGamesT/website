@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+MwQKdZpoHspvRvFsJSaSWJ2CQ4S6hOMex9Ebo1k36I=",
+  "Hash": "Ed5YfaZKHsS3Rluox3xUjfa0uui3ooWiJOLZz8aUycg=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -300,6 +300,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-Bs5NlcGA.js"
+    },
+    {
+      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-CQrv-nwB.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-CQrv-nwB.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-CQrv-nwB.js"
     },
     {
       "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-DevuDBIv.css",
