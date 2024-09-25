@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YzpoRaXyw7t7M7KeoIR/5tx2pobJoGmsX2+DjwApLww=",
+  "Hash": "+MwQKdZpoHspvRvFsJSaSWJ2CQ4S6hOMex9Ebo1k36I=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -243,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\icons-RwhydX30.svg"
+    },
+    {
+      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-5mW-yfmU.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-5mW-yfmU.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-5mW-yfmU.js"
     },
     {
       "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-B3ry5SnR.js",
