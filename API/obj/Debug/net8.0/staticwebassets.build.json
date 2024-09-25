@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ed5YfaZKHsS3Rluox3xUjfa0uui3ooWiJOLZz8aUycg=",
+  "Hash": "857erGTgAteEkU+zckeqBhw8AH4gHvbC4gp+A5vJdmE=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -338,6 +338,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-DevuDBIv.css"
+    },
+    {
+      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-iphcD_YY.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-iphcD_YY.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-iphcD_YY.js"
     },
     {
       "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-LmCHp-xb.js",
