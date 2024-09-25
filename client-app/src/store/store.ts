@@ -10,7 +10,7 @@ export const store: Store = {
     {
       id: "1",
       title: "TopDown",
-      urlTrailar: "./videos/CodrinBradeaGameTeaser.mp4",
+      urlTrailar: "./video/CodrinBradeaGameTeaser.mp4",
       urlPlay: "https://unknowngames-public.itch.io/hotline-oradea-betia",
       tags: ["Shooter", "Low Poly", "Lvl Base", "Windows", "Indie"],
       relased: true,
@@ -18,7 +18,7 @@ export const store: Store = {
     {
       id: "2",
       title: "MoveTheSquare",
-      urlTrailar: "./videos/MovetheSquare.mp4",
+      urlTrailar: "./video/MovetheSquare.mp4",
       urlPlay:
         "https://play.google.com/store/apps/details?id=com.UnknownGames.MoveTheSquare",
       tags: ["Mobile", "Indie", "Arcade", "Android", "IOS"],
@@ -27,7 +27,7 @@ export const store: Store = {
     {
       id: "3",
       title: "Survive",
-      urlTrailar: "./videos/Survive.mp4",
+      urlTrailar: "./video/Survive.mp4",
       urlPlay: "https://unknowngames-public.itch.io/hotline-oradea-betia",
       tags: ["Shooter", "Low Poly", "Lvl Base", "Windows", "Indie", "RogLike"],
       relased: false,
