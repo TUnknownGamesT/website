@@ -53,12 +53,20 @@
       "PackagePath": "staticwebassets\\assets\\icons-RwhydX30.svg"
     },
     {
-      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-CVoVTOmY.js",
-      "PackagePath": "staticwebassets\\assets\\index-CVoVTOmY.js"
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-B3ry5SnR.js",
+      "PackagePath": "staticwebassets\\assets\\index-B3ry5SnR.js"
     },
     {
-      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-FzkuyeAQ.css",
-      "PackagePath": "staticwebassets\\assets\\index-FzkuyeAQ.css"
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-Bs5NlcGA.js",
+      "PackagePath": "staticwebassets\\assets\\index-Bs5NlcGA.js"
+    },
+    {
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-DevuDBIv.css",
+      "PackagePath": "staticwebassets\\assets\\index-DevuDBIv.css"
+    },
+    {
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-LmCHp-xb.js",
+      "PackagePath": "staticwebassets\\assets\\index-LmCHp-xb.js"
     },
     {
       "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
@@ -83,6 +91,18 @@
     {
       "Id": "D:\\Unknown\\website\\API\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\videos\\Codrin Bradea Game Teaser.mp4",
+      "PackagePath": "staticwebassets\\videos\\Codrin Bradea Game Teaser.mp4"
+    },
+    {
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\videos\\MoveTheSquare.mp4",
+      "PackagePath": "staticwebassets\\videos\\MoveTheSquare.mp4"
+    },
+    {
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\videos\\Survive.mp4",
+      "PackagePath": "staticwebassets\\videos\\Survive.mp4"
     },
     {
       "Id": "D:\\Unknown\\website\\API\\wwwroot\\vite.svg",
