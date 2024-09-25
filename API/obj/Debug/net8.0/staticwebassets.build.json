@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "857erGTgAteEkU+zckeqBhw8AH4gHvbC4gp+A5vJdmE=",
+  "Hash": "oO/PkmfhbtqLKRDylHrZZJ88pcTDk3QilRyFZRwfbAU=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -338,6 +338,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-DevuDBIv.css"
+    },
+    {
+      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-fHiu7hZh.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-fHiu7hZh.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-fHiu7hZh.js"
     },
     {
       "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-iphcD_YY.js",
