@@ -1,0 +1,106 @@
+/* FormComponent.css */
+.form-container {
+  background-color: #1e1e1e;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  flex: 1;
+}
+
+.form-group:last-child {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.required {
+  color: red;
+  margin-left: 2px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  background-color: #2d2d2d;
+  border: 1px solid #333;
+  border-radius: 5px;
+  color: #fff;
+}
+
+/* Container for phone inputs */
+.phone-input-container {
+  display: flex;
+}
+
+.country-code {
+  width: 55px;
+  margin-right: -1px; /* Removes the gap between inputs */
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.phone-input-container input[type="tel"] {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  flex: 1;
+}
+
+input:invalid,
+textarea:invalid {
+  border-color: #333;
+}
+
+.submitted input:invalid,
+.submitted textarea:invalid {
+  border-color: red;
+}
+
+textarea {
+  height: 120px;
+}
+
+.submit-button {
+  background-color: #fff;
+  color: #000;
+  margin-top: 10px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  border: none;
+  font-size: 16px;
+}
+
+.submit-button:hover {
+  background-color: #f0f0f0;
+}
+
+
+@media (min-width: 1170px) {
+  .form-row {
+    flex-direction: row;  
+    justify-content: space-between;
+  }
+
+  .form-group {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .form-group:last-child {
+    margin-right: 0;
+    margin-top: 0px;
+  }
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oO/PkmfhbtqLKRDylHrZZJ88pcTDk3QilRyFZRwfbAU=",
+  "Hash": "HR4ICq7uNPnkac3FtVKAunAyGDCS2G5NGPUbGE2Unfo=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-Cu_C0hZ4.svg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-F3SPCeH1.woff",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-F3SPCeH1.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-F3SPCeH1.woff",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-F3SPCeH1.woff"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-sqJ2Pg7a.eot",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-ubhWoxly.ttf",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-ubhWoxly.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-ubhWoxly.ttf",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-ubhWoxly.ttf"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-XL9sxUpA.woff2",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-XL9sxUpA.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/brand-icons-XL9sxUpA.woff2",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand-icons-XL9sxUpA.woff2"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\BruceForeverRegular-X3jd2-eRmhhHH0.ttf",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\BruceForeverRegular-X3jd2-eRmhhHH0.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/BruceForeverRegular-X3jd2-eRmhhHH0.ttf",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\BruceForeverRegular-X3jd2-eRmhhHH0.ttf"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\flags-DOLqOU7Y.png",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\flags-DOLqOU7Y.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/flags-DOLqOU7Y.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\flags-DOLqOU7Y.png"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-BOCtAERH.woff",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-BOCtAERH.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-BOCtAERH.woff",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-BOCtAERH.woff"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-CHzK1VD9.eot",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-CHzK1VD9.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-CHzK1VD9.eot",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-CHzK1VD9.eot"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-D29ZQHHw.ttf",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-D29ZQHHw.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-D29ZQHHw.ttf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-D29ZQHHw.ttf"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-Du6TOHnR.woff2",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-Du6TOHnR.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-Du6TOHnR.woff2",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-Du6TOHnR.woff2"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-RwhydX30.svg",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-RwhydX30.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/icons-RwhydX30.svg",
       "AssetKind": "All",
@@ -245,86 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons-RwhydX30.svg"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-5mW-yfmU.js",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\index-DevuDBIv.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/index-5mW-yfmU.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-5mW-yfmU.js"
-    },
-    {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-B3ry5SnR.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/index-B3ry5SnR.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-B3ry5SnR.js"
-    },
-    {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-Bs5NlcGA.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/index-Bs5NlcGA.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-Bs5NlcGA.js"
-    },
-    {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-CQrv-nwB.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/index-CQrv-nwB.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-CQrv-nwB.js"
-    },
-    {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-DevuDBIv.css",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/index-DevuDBIv.css",
       "AssetKind": "All",
@@ -340,12 +264,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-DevuDBIv.css"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-fHiu7hZh.js",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\index-dRK74v1W.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "assets/index-fHiu7hZh.js",
+      "RelativePath": "assets/index-dRK74v1W.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,51 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-fHiu7hZh.js"
+      "OriginalItemSpec": "wwwroot\\assets\\index-dRK74v1W.js"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-iphcD_YY.js",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-aQ88nltS.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/index-iphcD_YY.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-iphcD_YY.js"
-    },
-    {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-LmCHp-xb.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "assets/index-LmCHp-xb.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-LmCHp-xb.js"
-    },
-    {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-aQ88nltS.woff",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-aQ88nltS.woff",
       "AssetKind": "All",
@@ -416,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-aQ88nltS.woff"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-BfdLr8tr.svg",
       "AssetKind": "All",
@@ -435,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-BfdLr8tr.svg"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-DD8jm0uy.ttf",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-DD8jm0uy.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-DD8jm0uy.ttf",
       "AssetKind": "All",
@@ -454,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-DD8jm0uy.ttf"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-DInHoiqI.woff2",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-DInHoiqI.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-DInHoiqI.woff2",
       "AssetKind": "All",
@@ -473,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-DInHoiqI.woff2"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-LX8adJ4n.eot",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-LX8adJ4n.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/outline-icons-LX8adJ4n.eot",
       "AssetKind": "All",
@@ -492,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\outline-icons-LX8adJ4n.eot"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -511,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\UGLogo.png",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\UGLogo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "UGLogo.png",
       "AssetKind": "All",
@@ -530,12 +416,12 @@
       "OriginalItemSpec": "wwwroot\\UGLogo.png"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\videos\\Codrin Bradea Game Teaser.mp4",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\video\\CodrinBradeaGameTeaser.mp4",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "videos/Codrin Bradea Game Teaser.mp4",
+      "RelativePath": "video/CodrinBradeaGameTeaser.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\Codrin Bradea Game Teaser.mp4"
+      "OriginalItemSpec": "wwwroot\\video\\CodrinBradeaGameTeaser.mp4"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\videos\\MoveTheSquare.mp4",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\video\\MoveTheSquare.mp4",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "videos/MoveTheSquare.mp4",
+      "RelativePath": "video/MoveTheSquare.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\MoveTheSquare.mp4"
+      "OriginalItemSpec": "wwwroot\\video\\MoveTheSquare.mp4"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\videos\\Survive.mp4",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\video\\Survive.mp4",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "videos/Survive.mp4",
+      "RelativePath": "video/Survive.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\Survive.mp4"
+      "OriginalItemSpec": "wwwroot\\video\\Survive.mp4"
     },
     {
-      "Identity": "D:\\Unknown\\website\\API\\wwwroot\\vite.svg",
+      "Identity": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\vite.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Unknown\\website\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "vite.svg",
       "AssetKind": "All",

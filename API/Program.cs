@@ -1,10 +1,23 @@
 var builder = WebApplication.CreateBuilder(args);
 
-builder.WebHost.UseUrls("http://localhost:5000");
-// Add services to the container.
+// Configure URLs to listen on both HTTP and HTTPS on port 5001 and 5002
+builder.WebHost.UseUrls("http://localhost:5001", "https://localhost:5002");
 
-builder.Services.AddControllers();
+// Define CORS policy
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", builder =>
+    {
+        builder
+        .WithOrigins("http://localhost:3001")
+        .AllowAnyMethod()                  
+        .AllowAnyHeader();                   
+    });
+});
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -17,14 +30,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-
 app.UseHttpsRedirection();
-app.UseDefaultFiles();
-app.UseStaticFiles();
+// app.UseDefaultFiles();
+// app.UseStaticFiles();
+
+app.UseCors("CorsPolicy");
 
 app.UseAuthorization();
-
-
 
 app.MapFallbackToController("Index", "FallBack");
 

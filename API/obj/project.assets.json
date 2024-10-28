@@ -481,19 +481,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leggacysa\\.nuget\\packages\\": {}
+    "C:\\Users\\avram\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unknown\\website\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Unknown\\website\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\leggacysa\\.nuget\\packages\\",
-      "outputPath": "D:\\Unknown\\website\\API\\obj\\",
+      "projectPath": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\avram\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leggacysa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\avram\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -505,8 +505,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Unknown\\website\\Application\\Application.csproj": {
-              "projectPath": "D:\\Unknown\\website\\Application\\Application.csproj"
+            "C:\\Users\\avram\\Documents\\GitHub\\website\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\avram\\Documents\\GitHub\\website\\Application\\Application.csproj"
             }
           }
         }
@@ -550,7 +550,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

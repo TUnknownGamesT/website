@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\leggacysa\\.nuget\\packages\\": {}
+    "C:\\Users\\avram\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unknown\\Website\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\avram\\Documents\\GitHub\\website\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Unknown\\Website\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\leggacysa\\.nuget\\packages\\",
-      "outputPath": "D:\\Unknown\\Website\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\avram\\Documents\\GitHub\\website\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\avram\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\avram\\Documents\\GitHub\\website\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leggacysa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\avram\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

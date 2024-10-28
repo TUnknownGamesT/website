@@ -1,26 +1,18 @@
-import ContactSection from "./components/ContactSection";
-import ContentItem from "./components/ContentItem";
 import NavBar from "./components/NavBar";
-import { useStore } from "./store/store";
+import PageTitle from "./components/PageTitle";
+import CardsContainer from './components/CardsContainer';
+import ContactContainer from "./components/ContactContainer";
+import './css/index.css'; 
 
 function App() {
-  const { contentItemsStore } = useStore();
-
   return (
     <div className="container">
       <NavBar />
-      {contentItemsStore.map((contentItem) => (
-        <ContentItem
-          key={contentItem.id}
-          id={contentItem.id}
-          title={contentItem.title}
-          urlTrailar={contentItem.urlTrailar}
-          urlPlay={contentItem.urlPlay}
-          tags={contentItem.tags}
-          relased={contentItem.relased}
-        />
-      ))}
-      <ContactSection />
+      <div className="body-container">
+        <PageTitle title="Grow your business with affordable, easy-to-use software" />
+        <CardsContainer />
+        <ContactContainer />
+      </div>
     </div>
   );
 }

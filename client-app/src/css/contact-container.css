@@ -1,0 +1,47 @@
+/* ContactWrapper.css */
+.contact-container {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    color: white;
+  }
+  
+  .left-section {
+    margin: 10px;
+  }
+
+  .right-section {
+    margin: 10px;
+    text-align: left;
+    padding-top: 40px;
+  }
+  
+  h1 {
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    padding-bottom: 20px;
+  }
+
+
+  @media (min-width: 1170px) { 
+    .contact-container {
+      width: 80%;
+      flex-direction: row; 
+      justify-content: space-between;
+    }
+
+    .left-section {
+      width: 60%;
+      margin: 10px;
+    }
+  
+    .right-section {
+      width: 40%;
+      margin: 10px;
+      padding-left: 20px;
+      text-align: left;
+      padding-top: 0px;
+    }
+
+  }

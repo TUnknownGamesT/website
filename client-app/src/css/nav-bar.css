@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "GamingFont";
+  src: url("../fonts/BruceForeverRegular-X3jd2.ttf");
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #222;
+  padding: 10px;
+}
+
+.menu-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.menu-icon {
+  color: white;
+  font-size: 24px;
+}
+
+.menu-button:hover .menu-icon {
+  color: lightgray; 
+}
