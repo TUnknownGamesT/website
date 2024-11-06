@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:5001;https://localhost:5002",
+      "applicationUrl": "http://localhost:5002;https://localhost:5001",
       "sslPort": 465
     }
   },
@@ -13,8 +13,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5001;https://localhost:5002",
+      "applicationUrl": "http://localhost:5002;https://localhost:5001",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "SMTP_EMAIL": "unknowngames.public@gmail.com",
@@ -26,8 +25,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5001;https://localhost:5002",
+      "applicationUrl": "http://localhost:5002;https://localhost:5001",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

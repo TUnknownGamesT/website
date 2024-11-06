@@ -1,103 +1,115 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\UGLogo.png",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\UGLogo.png",
       "PackagePath": "staticwebassets\\UGLogo.png"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\BruceForeverRegular-X3jd2-eRmhhHH0.ttf",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\BruceForeverRegular-X3jd2-eRmhhHH0.ttf",
       "PackagePath": "staticwebassets\\assets\\BruceForeverRegular-X3jd2-eRmhhHH0.ttf"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\UG_Logo-CEZP1uOA.jpg",
+      "PackagePath": "staticwebassets\\assets\\UG_Logo-CEZP1uOA.jpg"
+    },
+    {
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg",
       "PackagePath": "staticwebassets\\assets\\brand-icons-Cu_C0hZ4.svg"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-F3SPCeH1.woff",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-F3SPCeH1.woff",
       "PackagePath": "staticwebassets\\assets\\brand-icons-F3SPCeH1.woff"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-XL9sxUpA.woff2",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-XL9sxUpA.woff2",
       "PackagePath": "staticwebassets\\assets\\brand-icons-XL9sxUpA.woff2"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot",
       "PackagePath": "staticwebassets\\assets\\brand-icons-sqJ2Pg7a.eot"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\brand-icons-ubhWoxly.ttf",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\brand-icons-ubhWoxly.ttf",
       "PackagePath": "staticwebassets\\assets\\brand-icons-ubhWoxly.ttf"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\flags-DOLqOU7Y.png",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\flags-DOLqOU7Y.png",
       "PackagePath": "staticwebassets\\assets\\flags-DOLqOU7Y.png"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-BOCtAERH.woff",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-BOCtAERH.woff",
       "PackagePath": "staticwebassets\\assets\\icons-BOCtAERH.woff"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-CHzK1VD9.eot",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-CHzK1VD9.eot",
       "PackagePath": "staticwebassets\\assets\\icons-CHzK1VD9.eot"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-D29ZQHHw.ttf",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-D29ZQHHw.ttf",
       "PackagePath": "staticwebassets\\assets\\icons-D29ZQHHw.ttf"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-Du6TOHnR.woff2",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-Du6TOHnR.woff2",
       "PackagePath": "staticwebassets\\assets\\icons-Du6TOHnR.woff2"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\icons-RwhydX30.svg",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\icons-RwhydX30.svg",
       "PackagePath": "staticwebassets\\assets\\icons-RwhydX30.svg"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\index-DevuDBIv.css",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-Bt3Z1uB2.css",
+      "PackagePath": "staticwebassets\\assets\\index-Bt3Z1uB2.css"
+    },
+    {
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-DevuDBIv.css",
       "PackagePath": "staticwebassets\\assets\\index-DevuDBIv.css"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\index-dRK74v1W.js",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-Fm46Nr_z.js",
+      "PackagePath": "staticwebassets\\assets\\index-Fm46Nr_z.js"
+    },
+    {
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\index-dRK74v1W.js",
       "PackagePath": "staticwebassets\\assets\\index-dRK74v1W.js"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
       "PackagePath": "staticwebassets\\assets\\outline-icons-BfdLr8tr.svg"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-DD8jm0uy.ttf",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-DD8jm0uy.ttf",
       "PackagePath": "staticwebassets\\assets\\outline-icons-DD8jm0uy.ttf"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-DInHoiqI.woff2",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-DInHoiqI.woff2",
       "PackagePath": "staticwebassets\\assets\\outline-icons-DInHoiqI.woff2"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-LX8adJ4n.eot",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-LX8adJ4n.eot",
       "PackagePath": "staticwebassets\\assets\\outline-icons-LX8adJ4n.eot"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\assets\\outline-icons-aQ88nltS.woff",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\assets\\outline-icons-aQ88nltS.woff",
       "PackagePath": "staticwebassets\\assets\\outline-icons-aQ88nltS.woff"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\index.html",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\video\\CodrinBradeaGameTeaser.mp4",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\video\\CodrinBradeaGameTeaser.mp4",
       "PackagePath": "staticwebassets\\video\\CodrinBradeaGameTeaser.mp4"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\video\\MoveTheSquare.mp4",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\video\\MoveTheSquare.mp4",
       "PackagePath": "staticwebassets\\video\\MoveTheSquare.mp4"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\video\\Survive.mp4",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\video\\Survive.mp4",
       "PackagePath": "staticwebassets\\video\\Survive.mp4"
     },
     {
-      "Id": "C:\\Users\\avram\\Documents\\GitHub\\website\\API\\wwwroot\\vite.svg",
+      "Id": "D:\\Unknown\\website\\API\\wwwroot\\vite.svg",
       "PackagePath": "staticwebassets\\vite.svg"
     },
     {
